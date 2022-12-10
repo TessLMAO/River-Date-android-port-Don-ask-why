@@ -1,0 +1,182 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "River Flustered Idle"
+		},
+		{
+			"offsets": [
+				57,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "River Flustered Left"
+		},
+		{
+			"offsets": [
+				-50,
+				53
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "River Flustered Up"
+		},
+		{
+			"offsets": [
+				-45,
+				-65
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "River Flustered Down"
+		},
+		{
+			"offsets": [
+				-69,
+				-28
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "River Flustered Right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				56,
+				-14
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "River Flustered Miss Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-49,
+				53
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "River Flustered Miss Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-42,
+				-76
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "River Flustered Miss Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-18,
+				-35
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "River Flustered Miss Right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-12,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "River Flustered Death"
+		},
+		{
+			"offsets": [
+				-60,
+				-8
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "River Flustered Death Loop"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				82,
+				70
+			],
+			"anim": "bleed",
+			"fps": 24,
+			"name": "River Flustered Nosebleed",
+			"indices": []
+		},
+		{
+			"offsets": [
+				20,
+				-127
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "River Flustered Bloody"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/riverflustered",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "river",
+	"flip_x": true,
+	"healthbar_colors": [
+		180,
+		47,
+		113
+	],
+	"camera_position": [
+		80,
+		100
+	],
+	"sing_duration": 7.99999999999999,
+	"scale": 1
+}

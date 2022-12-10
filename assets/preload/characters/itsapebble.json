@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-156,
+				99
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "itsapebble"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/itsapebble",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "pebble",
+	"flip_x": true,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
