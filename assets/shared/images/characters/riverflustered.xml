@@ -1,0 +1,274 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="riverflustered.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="River Flustered Bloody0000" x="4" y="4" width="365" height="275" pivotX="-10.35" pivotY="-128.55" frameX="0" frameY="-7" frameWidth="365" frameHeight="282"/>
+	<SubTexture name="River Flustered Bloody0001" x="4" y="4" width="365" height="275" frameX="0" frameY="-7" frameWidth="365" frameHeight="282"/>
+	<SubTexture name="River Flustered Bloody0002" x="373" y="4" width="360" height="279" frameX="-5" frameY="0" frameWidth="365" frameHeight="282"/>
+	<SubTexture name="River Flustered Bloody0003" x="373" y="4" width="360" height="279" frameX="-5" frameY="0" frameWidth="365" frameHeight="282"/>
+	<SubTexture name="River Flustered Bloody0004" x="373" y="4" width="360" height="279" frameX="-5" frameY="0" frameWidth="365" frameHeight="282"/>
+	<SubTexture name="River Flustered Bloody0005" x="373" y="4" width="360" height="279" frameX="-5" frameY="0" frameWidth="365" frameHeight="282"/>
+	<SubTexture name="River Flustered Bloody0006" x="373" y="4" width="360" height="279" frameX="-5" frameY="0" frameWidth="365" frameHeight="282"/>
+	<SubTexture name="River Flustered Bloody0007" x="373" y="4" width="360" height="279" frameX="-5" frameY="0" frameWidth="365" frameHeight="282"/>
+	<SubTexture name="River Flustered Bloody0008" x="373" y="4" width="360" height="279" frameX="-5" frameY="0" frameWidth="365" frameHeight="282"/>
+	<SubTexture name="River Flustered Bloody0009" x="373" y="4" width="360" height="279" frameX="-5" frameY="0" frameWidth="365" frameHeight="282"/>
+	<SubTexture name="River Flustered Bloody0010" x="373" y="4" width="360" height="279" frameX="-5" frameY="0" frameWidth="365" frameHeight="282"/>
+	<SubTexture name="River Flustered Bloody0011" x="373" y="4" width="360" height="279" frameX="-5" frameY="0" frameWidth="365" frameHeight="282"/>
+	<SubTexture name="River Flustered Death0000" x="737" y="4" width="368" height="392" pivotX="69.45" pivotY="-19.8" frameX="-23" frameY="0" frameWidth="391" frameHeight="392"/>
+	<SubTexture name="River Flustered Death0001" x="1109" y="4" width="377" height="392" frameX="-14" frameY="0" frameWidth="391" frameHeight="392"/>
+	<SubTexture name="River Flustered Death0002" x="1490" y="4" width="385" height="377" frameX="-4" frameY="-15" frameWidth="391" frameHeight="392"/>
+	<SubTexture name="River Flustered Death0003" x="1879" y="4" width="389" height="373" frameX="0" frameY="-19" frameWidth="391" frameHeight="392"/>
+	<SubTexture name="River Flustered Death0004" x="2272" y="4" width="350" height="373" frameX="-41" frameY="-16" frameWidth="391" frameHeight="392"/>
+	<SubTexture name="River Flustered Death0005" x="2272" y="4" width="350" height="373" frameX="-41" frameY="-16" frameWidth="391" frameHeight="392"/>
+	<SubTexture name="River Flustered Death0006" x="2272" y="4" width="350" height="373" frameX="-41" frameY="-16" frameWidth="391" frameHeight="392"/>
+	<SubTexture name="River Flustered Death0007" x="2626" y="4" width="342" height="379" frameX="-48" frameY="-5" frameWidth="391" frameHeight="392"/>
+	<SubTexture name="River Flustered Death0008" x="2972" y="4" width="342" height="379" frameX="-48" frameY="-5" frameWidth="391" frameHeight="392"/>
+	<SubTexture name="River Flustered Death0009" x="3318" y="4" width="342" height="379" frameX="-48" frameY="-5" frameWidth="391" frameHeight="392"/>
+	<SubTexture name="River Flustered Death0010" x="3318" y="4" width="342" height="379" frameX="-48" frameY="-5" frameWidth="391" frameHeight="392"/>
+	<SubTexture name="River Flustered Death0011" x="3318" y="4" width="342" height="379" frameX="-48" frameY="-5" frameWidth="391" frameHeight="392"/>
+	<SubTexture name="River Flustered Death0012" x="3664" y="4" width="342" height="379" frameX="-48" frameY="-5" frameWidth="391" frameHeight="392"/>
+	<SubTexture name="River Flustered Death0013" x="3664" y="4" width="342" height="379" frameX="-48" frameY="-5" frameWidth="391" frameHeight="392"/>
+	<SubTexture name="River Flustered Death0014" x="3664" y="4" width="342" height="379" frameX="-48" frameY="-5" frameWidth="391" frameHeight="392"/>
+	<SubTexture name="River Flustered Death0015" x="3664" y="4" width="342" height="379" frameX="-48" frameY="-5" frameWidth="391" frameHeight="392"/>
+	<SubTexture name="River Flustered Death0016" x="3664" y="4" width="342" height="379" frameX="-48" frameY="-5" frameWidth="391" frameHeight="392"/>
+	<SubTexture name="River Flustered Death0017" x="3664" y="4" width="342" height="379" frameX="-48" frameY="-5" frameWidth="391" frameHeight="392"/>
+	<SubTexture name="River Flustered Death0018" x="3664" y="4" width="342" height="379" frameX="-48" frameY="-5" frameWidth="391" frameHeight="392"/>
+	<SubTexture name="River Flustered Death0019" x="3664" y="4" width="342" height="379" frameX="-48" frameY="-5" frameWidth="391" frameHeight="392"/>
+	<SubTexture name="River Flustered Death0020" x="3664" y="4" width="342" height="379" frameX="-48" frameY="-5" frameWidth="391" frameHeight="392"/>
+	<SubTexture name="River Flustered Death0021" x="3664" y="4" width="342" height="379" frameX="-48" frameY="-5" frameWidth="391" frameHeight="392"/>
+	<SubTexture name="River Flustered Death0022" x="3664" y="4" width="342" height="379" frameX="-48" frameY="-5" frameWidth="391" frameHeight="392"/>
+	<SubTexture name="River Flustered Death0023" x="3664" y="4" width="342" height="379" frameX="-48" frameY="-5" frameWidth="391" frameHeight="392"/>
+	<SubTexture name="River Flustered Death0024" x="3664" y="4" width="342" height="379" frameX="-48" frameY="-5" frameWidth="391" frameHeight="392"/>
+	<SubTexture name="River Flustered Death0025" x="3664" y="4" width="342" height="379" frameX="-48" frameY="-5" frameWidth="391" frameHeight="392"/>
+	<SubTexture name="River Flustered Death0026" x="3664" y="4" width="342" height="379" frameX="-48" frameY="-5" frameWidth="391" frameHeight="392"/>
+	<SubTexture name="River Flustered Death0027" x="3664" y="4" width="342" height="379" frameX="-48" frameY="-5" frameWidth="391" frameHeight="392"/>
+	<SubTexture name="River Flustered Death0028" x="3664" y="4" width="342" height="379" frameX="-48" frameY="-5" frameWidth="391" frameHeight="392"/>
+	<SubTexture name="River Flustered Death0029" x="3664" y="4" width="342" height="379" frameX="-48" frameY="-5" frameWidth="391" frameHeight="392"/>
+	<SubTexture name="River Flustered Death0030" x="3664" y="4" width="342" height="379" frameX="-48" frameY="-5" frameWidth="391" frameHeight="392"/>
+	<SubTexture name="River Flustered Death0031" x="3664" y="4" width="342" height="379" frameX="-48" frameY="-5" frameWidth="391" frameHeight="392"/>
+	<SubTexture name="River Flustered Death0032" x="3664" y="4" width="342" height="379" frameX="-48" frameY="-5" frameWidth="391" frameHeight="392"/>
+	<SubTexture name="River Flustered Death0033" x="3664" y="4" width="342" height="379" frameX="-48" frameY="-5" frameWidth="391" frameHeight="392"/>
+	<SubTexture name="River Flustered Death0034" x="3664" y="4" width="342" height="379" frameX="-48" frameY="-5" frameWidth="391" frameHeight="392"/>
+	<SubTexture name="River Flustered Death0035" x="3664" y="4" width="342" height="379" frameX="-48" frameY="-5" frameWidth="391" frameHeight="392"/>
+	<SubTexture name="River Flustered Death0036" x="3664" y="4" width="342" height="379" frameX="-48" frameY="-5" frameWidth="391" frameHeight="392"/>
+	<SubTexture name="River Flustered Death0037" x="3664" y="4" width="342" height="379" frameX="-48" frameY="-5" frameWidth="391" frameHeight="392"/>
+	<SubTexture name="River Flustered Death0038" x="3664" y="4" width="342" height="379" frameX="-48" frameY="-5" frameWidth="391" frameHeight="392"/>
+	<SubTexture name="River Flustered Death0039" x="3664" y="4" width="342" height="379" frameX="-48" frameY="-5" frameWidth="391" frameHeight="392"/>
+	<SubTexture name="River Flustered Death0040" x="3664" y="4" width="342" height="379" frameX="-48" frameY="-5" frameWidth="391" frameHeight="392"/>
+	<SubTexture name="River Flustered Death0041" x="3664" y="4" width="342" height="379" frameX="-48" frameY="-5" frameWidth="391" frameHeight="392"/>
+	<SubTexture name="River Flustered Death0042" x="3664" y="4" width="342" height="379" frameX="-48" frameY="-5" frameWidth="391" frameHeight="392"/>
+	<SubTexture name="River Flustered Death0043" x="3664" y="4" width="342" height="379" frameX="-48" frameY="-5" frameWidth="391" frameHeight="392"/>
+	<SubTexture name="River Flustered Death0044" x="3664" y="4" width="342" height="379" frameX="-48" frameY="-5" frameWidth="391" frameHeight="392"/>
+	<SubTexture name="River Flustered Death0045" x="3664" y="4" width="342" height="379" frameX="-48" frameY="-5" frameWidth="391" frameHeight="392"/>
+	<SubTexture name="River Flustered Death0046" x="3664" y="4" width="342" height="379" frameX="-48" frameY="-5" frameWidth="391" frameHeight="392"/>
+	<SubTexture name="River Flustered Death0047" x="3664" y="4" width="342" height="379" frameX="-48" frameY="-5" frameWidth="391" frameHeight="392"/>
+	<SubTexture name="River Flustered Death0048" x="3664" y="4" width="342" height="379" frameX="-48" frameY="-5" frameWidth="391" frameHeight="392"/>
+	<SubTexture name="River Flustered Death0049" x="3664" y="4" width="342" height="379" frameX="-48" frameY="-5" frameWidth="391" frameHeight="392"/>
+	<SubTexture name="River Flustered Death0050" x="3664" y="4" width="342" height="379" frameX="-48" frameY="-5" frameWidth="391" frameHeight="392"/>
+	<SubTexture name="River Flustered Death0051" x="3664" y="4" width="342" height="379" frameX="-48" frameY="-5" frameWidth="391" frameHeight="392"/>
+	<SubTexture name="River Flustered Death0052" x="3664" y="4" width="342" height="379" frameX="-48" frameY="-5" frameWidth="391" frameHeight="392"/>
+	<SubTexture name="River Flustered Death0053" x="3664" y="4" width="342" height="379" frameX="-48" frameY="-5" frameWidth="391" frameHeight="392"/>
+	<SubTexture name="River Flustered Death0054" x="3664" y="4" width="342" height="379" frameX="-48" frameY="-5" frameWidth="391" frameHeight="392"/>
+	<SubTexture name="River Flustered Death0055" x="3664" y="4" width="342" height="379" frameX="-48" frameY="-5" frameWidth="391" frameHeight="392"/>
+	<SubTexture name="River Flustered Death0056" x="3664" y="4" width="342" height="379" frameX="-48" frameY="-5" frameWidth="391" frameHeight="392"/>
+	<SubTexture name="River Flustered Death0057" x="3664" y="4" width="342" height="379" frameX="-48" frameY="-5" frameWidth="391" frameHeight="392"/>
+	<SubTexture name="River Flustered Death Loop0000" x="4" y="400" width="342" height="379" pivotX="21.85" pivotY="-24.1"/>
+	<SubTexture name="River Flustered Death Loop0001" x="350" y="400" width="342" height="379"/>
+	<SubTexture name="River Flustered Death Loop0002" x="696" y="400" width="342" height="379"/>
+	<SubTexture name="River Flustered Death Loop0003" x="696" y="400" width="342" height="379"/>
+	<SubTexture name="River Flustered Death Loop0004" x="696" y="400" width="342" height="379"/>
+	<SubTexture name="River Flustered Death Loop0005" x="1042" y="400" width="342" height="379"/>
+	<SubTexture name="River Flustered Death Loop0006" x="1388" y="400" width="342" height="379"/>
+	<SubTexture name="River Flustered Death Loop0007" x="1734" y="400" width="342" height="379"/>
+	<SubTexture name="River Flustered Death Loop0008" x="2080" y="400" width="342" height="379"/>
+	<SubTexture name="River Flustered Death Loop0009" x="2080" y="400" width="342" height="379"/>
+	<SubTexture name="River Flustered Death Loop0010" x="2426" y="400" width="342" height="379"/>
+	<SubTexture name="River Flustered Death Loop0011" x="2426" y="400" width="342" height="379"/>
+	<SubTexture name="River Flustered Death Loop0012" x="2426" y="400" width="342" height="379"/>
+	<SubTexture name="River Flustered Death Loop0013" x="2426" y="400" width="342" height="379"/>
+	<SubTexture name="River Flustered Death Loop0014" x="2426" y="400" width="342" height="379"/>
+	<SubTexture name="River Flustered Death Loop0015" x="2426" y="400" width="342" height="379"/>
+	<SubTexture name="River Flustered Death Loop0016" x="2426" y="400" width="342" height="379"/>
+	<SubTexture name="River Flustered Death Loop0017" x="2426" y="400" width="342" height="379"/>
+	<SubTexture name="River Flustered Death Loop0018" x="2426" y="400" width="342" height="379"/>
+	<SubTexture name="River Flustered Death Loop0019" x="2426" y="400" width="342" height="379"/>
+	<SubTexture name="River Flustered Death Loop0020" x="2426" y="400" width="342" height="379"/>
+	<SubTexture name="River Flustered Death Loop0021" x="2426" y="400" width="342" height="379"/>
+	<SubTexture name="River Flustered Death Loop0022" x="2426" y="400" width="342" height="379"/>
+	<SubTexture name="River Flustered Death Loop0023" x="2426" y="400" width="342" height="379"/>
+	<SubTexture name="River Flustered Death Loop0024" x="2426" y="400" width="342" height="379"/>
+	<SubTexture name="River Flustered Death Loop0025" x="2426" y="400" width="342" height="379"/>
+	<SubTexture name="River Flustered Death Loop0026" x="2426" y="400" width="342" height="379"/>
+	<SubTexture name="River Flustered Death Loop0027" x="2426" y="400" width="342" height="379"/>
+	<SubTexture name="River Flustered Death Loop0028" x="2426" y="400" width="342" height="379"/>
+	<SubTexture name="River Flustered Death Loop0029" x="2426" y="400" width="342" height="379"/>
+	<SubTexture name="River Flustered Death Loop0030" x="2772" y="400" width="342" height="379"/>
+	<SubTexture name="River Flustered Death Loop0031" x="2426" y="400" width="342" height="379"/>
+	<SubTexture name="River Flustered Death Loop0032" x="2426" y="400" width="342" height="379"/>
+	<SubTexture name="River Flustered Death Loop0033" x="2426" y="400" width="342" height="379"/>
+	<SubTexture name="River Flustered Down0000" x="3118" y="400" width="275" height="308" pivotX="4.35" pivotY="-2" frameX="0" frameY="-19" frameWidth="275" frameHeight="330"/>
+	<SubTexture name="River Flustered Down0001" x="3397" y="400" width="275" height="308" frameX="0" frameY="-19" frameWidth="275" frameHeight="330"/>
+	<SubTexture name="River Flustered Down0002" x="3676" y="400" width="266" height="330" frameX="-2" frameY="0" frameWidth="275" frameHeight="330"/>
+	<SubTexture name="River Flustered Down0003" x="4" y="783" width="266" height="330" frameX="-2" frameY="0" frameWidth="275" frameHeight="330"/>
+	<SubTexture name="River Flustered Down0004" x="4" y="783" width="266" height="330" frameX="-2" frameY="0" frameWidth="275" frameHeight="330"/>
+	<SubTexture name="River Flustered Down0005" x="4" y="783" width="266" height="330" frameX="-2" frameY="0" frameWidth="275" frameHeight="330"/>
+	<SubTexture name="River Flustered Down0006" x="274" y="783" width="266" height="330" frameX="-2" frameY="0" frameWidth="275" frameHeight="330"/>
+	<SubTexture name="River Flustered Down0007" x="274" y="783" width="266" height="330" frameX="-2" frameY="0" frameWidth="275" frameHeight="330"/>
+	<SubTexture name="River Flustered Down0008" x="274" y="783" width="266" height="330" frameX="-2" frameY="0" frameWidth="275" frameHeight="330"/>
+	<SubTexture name="River Flustered Down0009" x="274" y="783" width="266" height="330" frameX="-2" frameY="0" frameWidth="275" frameHeight="330"/>
+	<SubTexture name="River Flustered Down0010" x="274" y="783" width="266" height="330" frameX="-2" frameY="0" frameWidth="275" frameHeight="330"/>
+	<SubTexture name="River Flustered Down0011" x="274" y="783" width="266" height="330" frameX="-2" frameY="0" frameWidth="275" frameHeight="330"/>
+	<SubTexture name="River Flustered Down0012" x="274" y="783" width="266" height="330" frameX="-2" frameY="0" frameWidth="275" frameHeight="330"/>
+	<SubTexture name="River Flustered Down0013" x="274" y="783" width="266" height="330" frameX="-2" frameY="0" frameWidth="275" frameHeight="330"/>
+	<SubTexture name="River Flustered Idle0000" x="544" y="783" width="333" height="369" pivotX="32.2" pivotY="-15.8" frameX="-6" frameY="-18" frameWidth="339" frameHeight="387"/>
+	<SubTexture name="River Flustered Idle0001" x="544" y="783" width="333" height="369" frameX="-6" frameY="-18" frameWidth="339" frameHeight="387"/>
+	<SubTexture name="River Flustered Idle0002" x="881" y="783" width="337" height="374" frameX="0" frameY="-13" frameWidth="339" frameHeight="387"/>
+	<SubTexture name="River Flustered Idle0003" x="881" y="783" width="337" height="374" frameX="0" frameY="-13" frameWidth="339" frameHeight="387"/>
+	<SubTexture name="River Flustered Idle0004" x="1222" y="783" width="322" height="383" frameX="-12" frameY="-4" frameWidth="339" frameHeight="387"/>
+	<SubTexture name="River Flustered Idle0005" x="1222" y="783" width="322" height="383" frameX="-12" frameY="-4" frameWidth="339" frameHeight="387"/>
+	<SubTexture name="River Flustered Idle0006" x="1548" y="783" width="323" height="386" frameX="-11" frameY="-1" frameWidth="339" frameHeight="387"/>
+	<SubTexture name="River Flustered Idle0007" x="1548" y="783" width="323" height="386" frameX="-11" frameY="-1" frameWidth="339" frameHeight="387"/>
+	<SubTexture name="River Flustered Idle0008" x="1875" y="783" width="323" height="387" frameX="-11" frameY="0" frameWidth="339" frameHeight="387"/>
+	<SubTexture name="River Flustered Idle0009" x="1875" y="783" width="323" height="387" frameX="-11" frameY="0" frameWidth="339" frameHeight="387"/>
+	<SubTexture name="River Flustered Idle0010" x="2202" y="783" width="323" height="387" frameX="-11" frameY="0" frameWidth="339" frameHeight="387"/>
+	<SubTexture name="River Flustered Idle0011" x="2202" y="783" width="323" height="387" frameX="-11" frameY="0" frameWidth="339" frameHeight="387"/>
+	<SubTexture name="River Flustered Idle0012" x="1875" y="783" width="323" height="387" frameX="-11" frameY="0" frameWidth="339" frameHeight="387"/>
+	<SubTexture name="River Flustered Idle0013" x="1875" y="783" width="323" height="387" frameX="-11" frameY="0" frameWidth="339" frameHeight="387"/>
+	<SubTexture name="River Flustered Left0000" x="2529" y="783" width="373" height="369" pivotX="0.15" pivotY="-7.5" frameX="0" frameY="-7" frameWidth="375" frameHeight="376"/>
+	<SubTexture name="River Flustered Left0001" x="2529" y="783" width="373" height="369" frameX="0" frameY="-7" frameWidth="375" frameHeight="376"/>
+	<SubTexture name="River Flustered Left0002" x="2906" y="783" width="361" height="376" frameX="-14" frameY="0" frameWidth="375" frameHeight="376"/>
+	<SubTexture name="River Flustered Left0003" x="2906" y="783" width="361" height="376" frameX="-14" frameY="0" frameWidth="375" frameHeight="376"/>
+	<SubTexture name="River Flustered Left0004" x="3271" y="783" width="361" height="376" frameX="-14" frameY="0" frameWidth="375" frameHeight="376"/>
+	<SubTexture name="River Flustered Left0005" x="3271" y="783" width="361" height="376" frameX="-14" frameY="0" frameWidth="375" frameHeight="376"/>
+	<SubTexture name="River Flustered Left0006" x="3636" y="783" width="361" height="376" frameX="-14" frameY="0" frameWidth="375" frameHeight="376"/>
+	<SubTexture name="River Flustered Left0007" x="3636" y="783" width="361" height="376" frameX="-14" frameY="0" frameWidth="375" frameHeight="376"/>
+	<SubTexture name="River Flustered Left0008" x="3636" y="783" width="361" height="376" frameX="-14" frameY="0" frameWidth="375" frameHeight="376"/>
+	<SubTexture name="River Flustered Left0009" x="3636" y="783" width="361" height="376" frameX="-14" frameY="0" frameWidth="375" frameHeight="376"/>
+	<SubTexture name="River Flustered Left0010" x="3636" y="783" width="361" height="376" frameX="-14" frameY="0" frameWidth="375" frameHeight="376"/>
+	<SubTexture name="River Flustered Left0011" x="3636" y="783" width="361" height="376" frameX="-14" frameY="0" frameWidth="375" frameHeight="376"/>
+	<SubTexture name="River Flustered Left0012" x="3636" y="783" width="361" height="376" frameX="-14" frameY="0" frameWidth="375" frameHeight="376"/>
+	<SubTexture name="River Flustered Left0013" x="3636" y="783" width="361" height="376" frameX="-14" frameY="0" frameWidth="375" frameHeight="376"/>
+	<SubTexture name="River Flustered Miss Down0000" x="4" y="1174" width="275" height="308" pivotX="8.95" pivotY="-14.15" frameX="-4" frameY="-7" frameWidth="282" frameHeight="315"/>
+	<SubTexture name="River Flustered Miss Down0001" x="283" y="1174" width="276" height="313" frameX="-3" frameY="0" frameWidth="282" frameHeight="315"/>
+	<SubTexture name="River Flustered Miss Down0002" x="283" y="1174" width="276" height="313" frameX="-3" frameY="0" frameWidth="282" frameHeight="315"/>
+	<SubTexture name="River Flustered Miss Down0003" x="563" y="1174" width="282" height="307" frameX="0" frameY="-6" frameWidth="282" frameHeight="315"/>
+	<SubTexture name="River Flustered Miss Down0004" x="563" y="1174" width="282" height="307" frameX="0" frameY="-6" frameWidth="282" frameHeight="315"/>
+	<SubTexture name="River Flustered Miss Down0005" x="849" y="1174" width="282" height="307" frameX="0" frameY="-6" frameWidth="282" frameHeight="315"/>
+	<SubTexture name="River Flustered Miss Down0006" x="849" y="1174" width="282" height="307" frameX="0" frameY="-6" frameWidth="282" frameHeight="315"/>
+	<SubTexture name="River Flustered Miss Down0007" x="563" y="1174" width="282" height="307" frameX="0" frameY="-6" frameWidth="282" frameHeight="315"/>
+	<SubTexture name="River Flustered Miss Down0008" x="563" y="1174" width="282" height="307" frameX="0" frameY="-6" frameWidth="282" frameHeight="315"/>
+	<SubTexture name="River Flustered Miss Down0009" x="849" y="1174" width="282" height="307" frameX="0" frameY="-6" frameWidth="282" frameHeight="315"/>
+	<SubTexture name="River Flustered Miss Down0010" x="849" y="1174" width="282" height="307" frameX="0" frameY="-6" frameWidth="282" frameHeight="315"/>
+	<SubTexture name="River Flustered Miss Down0011" x="563" y="1174" width="282" height="307" frameX="0" frameY="-6" frameWidth="282" frameHeight="315"/>
+	<SubTexture name="River Flustered Miss Down0012" x="563" y="1174" width="282" height="307" frameX="0" frameY="-6" frameWidth="282" frameHeight="315"/>
+	<SubTexture name="River Flustered Miss Down0013" x="849" y="1174" width="282" height="307" frameX="0" frameY="-6" frameWidth="282" frameHeight="315"/>
+	<SubTexture name="River Flustered Miss Left0000" x="1135" y="1174" width="373" height="369" pivotX="0.15" pivotY="-14.4" frameX="0" frameY="0" frameWidth="376" frameHeight="370"/>
+	<SubTexture name="River Flustered Miss Left0001" x="1512" y="1174" width="368" height="356" frameX="-8" frameY="-14" frameWidth="376" frameHeight="370"/>
+	<SubTexture name="River Flustered Miss Left0002" x="1512" y="1174" width="368" height="356" frameX="-8" frameY="-14" frameWidth="376" frameHeight="370"/>
+	<SubTexture name="River Flustered Miss Left0003" x="1884" y="1174" width="372" height="355" frameX="-3" frameY="-15" frameWidth="376" frameHeight="370"/>
+	<SubTexture name="River Flustered Miss Left0004" x="1884" y="1174" width="372" height="355" frameX="-3" frameY="-15" frameWidth="376" frameHeight="370"/>
+	<SubTexture name="River Flustered Miss Left0005" x="2260" y="1174" width="372" height="355" frameX="-3" frameY="-15" frameWidth="376" frameHeight="370"/>
+	<SubTexture name="River Flustered Miss Left0006" x="2260" y="1174" width="372" height="355" frameX="-3" frameY="-15" frameWidth="376" frameHeight="370"/>
+	<SubTexture name="River Flustered Miss Left0007" x="1884" y="1174" width="372" height="355" frameX="-3" frameY="-15" frameWidth="376" frameHeight="370"/>
+	<SubTexture name="River Flustered Miss Left0008" x="1884" y="1174" width="372" height="355" frameX="-3" frameY="-15" frameWidth="376" frameHeight="370"/>
+	<SubTexture name="River Flustered Miss Left0009" x="2260" y="1174" width="372" height="355" frameX="-3" frameY="-15" frameWidth="376" frameHeight="370"/>
+	<SubTexture name="River Flustered Miss Left0010" x="2260" y="1174" width="372" height="355" frameX="-3" frameY="-15" frameWidth="376" frameHeight="370"/>
+	<SubTexture name="River Flustered Miss Left0011" x="1884" y="1174" width="372" height="355" frameX="-3" frameY="-15" frameWidth="376" frameHeight="370"/>
+	<SubTexture name="River Flustered Miss Left0012" x="1884" y="1174" width="372" height="355" frameX="-3" frameY="-15" frameWidth="376" frameHeight="370"/>
+	<SubTexture name="River Flustered Miss Left0013" x="2260" y="1174" width="372" height="355" frameX="-3" frameY="-15" frameWidth="376" frameHeight="370"/>
+	<SubTexture name="River Flustered Miss Right0000" x="2636" y="1174" width="329" height="364" pivotX="71.65" pivotY="9.4" frameX="-50" frameY="0" frameWidth="563" frameHeight="611"/>
+	<SubTexture name="River Flustered Miss Right0001" x="2969" y="1174" width="456" height="357" frameX="-10" frameY="-70" frameWidth="563" frameHeight="611"/>
+	<SubTexture name="River Flustered Miss Right0002" x="3429" y="1174" width="563" height="278" frameX="0" frameY="-333" frameWidth="563" frameHeight="611"/>
+	<SubTexture name="River Flustered Miss Right0003" x="4" y="1547" width="557" height="262" frameX="0" frameY="-333" frameWidth="563" frameHeight="611"/>
+	<SubTexture name="River Flustered Miss Right0004" x="565" y="1547" width="443" height="360" frameX="-50" frameY="-216" frameWidth="563" frameHeight="611"/>
+	<SubTexture name="River Flustered Miss Right0005" x="565" y="1547" width="443" height="360" frameX="-50" frameY="-216" frameWidth="563" frameHeight="611"/>
+	<SubTexture name="River Flustered Miss Right0006" x="1012" y="1547" width="425" height="373" frameX="-59" frameY="-204" frameWidth="563" frameHeight="611"/>
+	<SubTexture name="River Flustered Miss Right0007" x="1012" y="1547" width="425" height="373" frameX="-59" frameY="-204" frameWidth="563" frameHeight="611"/>
+	<SubTexture name="River Flustered Miss Right0008" x="1441" y="1547" width="423" height="371" frameX="-60" frameY="-205" frameWidth="563" frameHeight="611"/>
+	<SubTexture name="River Flustered Miss Right0009" x="1441" y="1547" width="423" height="371" frameX="-60" frameY="-205" frameWidth="563" frameHeight="611"/>
+	<SubTexture name="River Flustered Miss Right0010" x="1012" y="1547" width="425" height="373" frameX="-59" frameY="-204" frameWidth="563" frameHeight="611"/>
+	<SubTexture name="River Flustered Miss Right0011" x="1012" y="1547" width="425" height="373" frameX="-59" frameY="-204" frameWidth="563" frameHeight="611"/>
+	<SubTexture name="River Flustered Miss Right0012" x="1441" y="1547" width="423" height="371" frameX="-60" frameY="-205" frameWidth="563" frameHeight="611"/>
+	<SubTexture name="River Flustered Miss Right0013" x="1441" y="1547" width="423" height="371" frameX="-60" frameY="-205" frameWidth="563" frameHeight="611"/>
+	<SubTexture name="River Flustered Miss Up0000" x="2120" y="2005" width="267" height="449" pivotX="-7.8" pivotY="14.55" frameX="-3" frameY="0" frameWidth="273" frameHeight="454"/>
+	<SubTexture name="River Flustered Miss Up0001" x="1868" y="1547" width="275" height="433" frameX="0" frameY="-16" frameWidth="275" frameHeight="449"/>
+	<SubTexture name="River Flustered Miss Up0002" x="1868" y="1547" width="275" height="433" frameX="0" frameY="-16" frameWidth="275" frameHeight="449"/>
+	<SubTexture name="River Flustered Miss Up0003" x="2147" y="1547" width="270" height="440" frameX="-2" frameY="-9" frameWidth="275" frameHeight="449"/>
+	<SubTexture name="River Flustered Miss Up0004" x="2147" y="1547" width="270" height="440" frameX="-2" frameY="-9" frameWidth="275" frameHeight="449"/>
+	<SubTexture name="River Flustered Miss Up0005" x="2421" y="1547" width="271" height="440" frameX="-2" frameY="-9" frameWidth="275" frameHeight="449"/>
+	<SubTexture name="River Flustered Miss Up0006" x="2421" y="1547" width="271" height="440" frameX="-2" frameY="-9" frameWidth="275" frameHeight="449"/>
+	<SubTexture name="River Flustered Miss Up0007" x="2147" y="1547" width="270" height="440" frameX="-2" frameY="-9" frameWidth="275" frameHeight="449"/>
+	<SubTexture name="River Flustered Miss Up0008" x="2147" y="1547" width="270" height="440" frameX="-2" frameY="-9" frameWidth="275" frameHeight="449"/>
+	<SubTexture name="River Flustered Miss Up0009" x="2421" y="1547" width="271" height="440" frameX="-2" frameY="-9" frameWidth="275" frameHeight="449"/>
+	<SubTexture name="River Flustered Miss Up0010" x="2421" y="1547" width="271" height="440" frameX="-2" frameY="-9" frameWidth="275" frameHeight="449"/>
+	<SubTexture name="River Flustered Miss Up0011" x="2147" y="1547" width="270" height="440" frameX="-2" frameY="-9" frameWidth="275" frameHeight="449"/>
+	<SubTexture name="River Flustered Miss Up0012" x="2147" y="1547" width="270" height="440" frameX="-2" frameY="-9" frameWidth="275" frameHeight="449"/>
+	<SubTexture name="River Flustered Miss Up0013" x="2421" y="1547" width="271" height="440" frameX="-2" frameY="-9" frameWidth="275" frameHeight="449"/>
+	<SubTexture name="River Flustered Nosebleed0000" x="2696" y="1547" width="405" height="343" pivotX="119.2" pivotY="55.1" frameX="-16" frameY="-114" frameWidth="451" frameHeight="460"/>
+	<SubTexture name="River Flustered Nosebleed0001" x="2696" y="1547" width="405" height="343" frameX="-16" frameY="-114" frameWidth="451" frameHeight="460"/>
+	<SubTexture name="River Flustered Nosebleed0002" x="3105" y="1547" width="421" height="317" frameX="0" frameY="-140" frameWidth="451" frameHeight="460"/>
+	<SubTexture name="River Flustered Nosebleed0003" x="3105" y="1547" width="421" height="317" frameX="0" frameY="-140" frameWidth="451" frameHeight="460"/>
+	<SubTexture name="River Flustered Nosebleed0004" x="3530" y="1547" width="348" height="454" frameX="-83" frameY="-3" frameWidth="451" frameHeight="460"/>
+	<SubTexture name="River Flustered Nosebleed0005" x="3530" y="1547" width="348" height="454" frameX="-83" frameY="-3" frameWidth="451" frameHeight="460"/>
+	<SubTexture name="River Flustered Nosebleed0006" x="4" y="2005" width="361" height="460" frameX="-89" frameY="0" frameWidth="451" frameHeight="460"/>
+	<SubTexture name="River Flustered Nosebleed0007" x="369" y="2005" width="361" height="453" frameX="-89" frameY="-7" frameWidth="451" frameHeight="460"/>
+	<SubTexture name="River Flustered Nosebleed0008" x="369" y="2005" width="361" height="453" frameX="-89" frameY="-7" frameWidth="451" frameHeight="460"/>
+	<SubTexture name="River Flustered Nosebleed0009" x="369" y="2005" width="361" height="453" frameX="-89" frameY="-7" frameWidth="451" frameHeight="460"/>
+	<SubTexture name="River Flustered Nosebleed0010" x="734" y="2005" width="362" height="451" frameX="-89" frameY="-8" frameWidth="451" frameHeight="460"/>
+	<SubTexture name="River Flustered Nosebleed0011" x="734" y="2005" width="362" height="451" frameX="-89" frameY="-8" frameWidth="451" frameHeight="460"/>
+	<SubTexture name="River Flustered Nosebleed0012" x="734" y="2005" width="362" height="451" frameX="-89" frameY="-8" frameWidth="451" frameHeight="460"/>
+	<SubTexture name="River Flustered Nosebleed0013" x="734" y="2005" width="362" height="451" frameX="-89" frameY="-8" frameWidth="451" frameHeight="460"/>
+	<SubTexture name="River Flustered Nosebleed0014" x="1100" y="2005" width="363" height="449" frameX="-88" frameY="-10" frameWidth="451" frameHeight="460"/>
+	<SubTexture name="River Flustered Nosebleed0015" x="1100" y="2005" width="363" height="449" frameX="-88" frameY="-10" frameWidth="451" frameHeight="460"/>
+	<SubTexture name="River Flustered Nosebleed0016" x="1100" y="2005" width="363" height="449" frameX="-88" frameY="-10" frameWidth="451" frameHeight="460"/>
+	<SubTexture name="River Flustered Nosebleed0017" x="1100" y="2005" width="363" height="449" frameX="-88" frameY="-10" frameWidth="451" frameHeight="460"/>
+	<SubTexture name="River Flustered Nosebleed0018" x="1100" y="2005" width="363" height="449" frameX="-88" frameY="-10" frameWidth="451" frameHeight="460"/>
+	<SubTexture name="River Flustered Nosebleed0019" x="1100" y="2005" width="363" height="449" frameX="-88" frameY="-10" frameWidth="451" frameHeight="460"/>
+	<SubTexture name="River Flustered Nosebleed0020" x="1100" y="2005" width="363" height="449" frameX="-88" frameY="-10" frameWidth="451" frameHeight="460"/>
+	<SubTexture name="River Flustered Nosebleed0021" x="1100" y="2005" width="363" height="449" frameX="-88" frameY="-10" frameWidth="451" frameHeight="460"/>
+	<SubTexture name="River Flustered Nosebleed0022" x="1100" y="2005" width="363" height="449" frameX="-88" frameY="-10" frameWidth="451" frameHeight="460"/>
+	<SubTexture name="River Flustered Nosebleed0023" x="1100" y="2005" width="363" height="449" frameX="-88" frameY="-10" frameWidth="451" frameHeight="460"/>
+	<SubTexture name="River Flustered Nosebleed0024" x="1100" y="2005" width="363" height="449" frameX="-88" frameY="-10" frameWidth="451" frameHeight="460"/>
+	<SubTexture name="River Flustered Nosebleed0025" x="1100" y="2005" width="363" height="449" frameX="-88" frameY="-10" frameWidth="451" frameHeight="460"/>
+	<SubTexture name="River Flustered Nosebleed0026" x="1100" y="2005" width="363" height="449" frameX="-88" frameY="-10" frameWidth="451" frameHeight="460"/>
+	<SubTexture name="River Flustered Nosebleed0027" x="1100" y="2005" width="363" height="449" frameX="-88" frameY="-10" frameWidth="451" frameHeight="460"/>
+	<SubTexture name="River Flustered Nosebleed0028" x="1100" y="2005" width="363" height="449" frameX="-88" frameY="-10" frameWidth="451" frameHeight="460"/>
+	<SubTexture name="River Flustered Nosebleed0029" x="1100" y="2005" width="363" height="449" frameX="-88" frameY="-10" frameWidth="451" frameHeight="460"/>
+	<SubTexture name="River Flustered Nosebleed0030" x="1100" y="2005" width="363" height="449" frameX="-88" frameY="-10" frameWidth="451" frameHeight="460"/>
+	<SubTexture name="River Flustered Nosebleed0031" x="1100" y="2005" width="363" height="449" frameX="-88" frameY="-10" frameWidth="451" frameHeight="460"/>
+	<SubTexture name="River Flustered Nosebleed0032" x="1100" y="2005" width="363" height="449" frameX="-88" frameY="-10" frameWidth="451" frameHeight="460"/>
+	<SubTexture name="River Flustered Nosebleed0033" x="1100" y="2005" width="363" height="449" frameX="-88" frameY="-10" frameWidth="451" frameHeight="460"/>
+	<SubTexture name="River Flustered Nosebleed0034" x="1100" y="2005" width="363" height="449" frameX="-88" frameY="-10" frameWidth="451" frameHeight="460"/>
+	<SubTexture name="River Flustered Nosebleed0035" x="1100" y="2005" width="363" height="449" frameX="-88" frameY="-10" frameWidth="451" frameHeight="460"/>
+	<SubTexture name="River Flustered Nosebleed0036" x="1100" y="2005" width="363" height="449" frameX="-88" frameY="-10" frameWidth="451" frameHeight="460"/>
+	<SubTexture name="River Flustered Nosebleed0037" x="1100" y="2005" width="363" height="449" frameX="-88" frameY="-10" frameWidth="451" frameHeight="460"/>
+	<SubTexture name="River Flustered Nosebleed0038" x="1100" y="2005" width="363" height="449" frameX="-88" frameY="-10" frameWidth="451" frameHeight="460"/>
+	<SubTexture name="River Flustered Right0000" x="1467" y="2005" width="329" height="364" pivotX="21.45" pivotY="16.95" frameX="0" frameY="-7" frameWidth="329" frameHeight="371"/>
+	<SubTexture name="River Flustered Right0001" x="1467" y="2005" width="329" height="364" frameX="0" frameY="-7" frameWidth="329" frameHeight="371"/>
+	<SubTexture name="River Flustered Right0002" x="1800" y="2005" width="316" height="368" frameX="-1" frameY="0" frameWidth="329" frameHeight="371"/>
+	<SubTexture name="River Flustered Right0003" x="1800" y="2005" width="316" height="368" frameX="-1" frameY="0" frameWidth="329" frameHeight="371"/>
+	<SubTexture name="River Flustered Right0004" x="1800" y="2005" width="316" height="368" frameX="-1" frameY="0" frameWidth="329" frameHeight="371"/>
+	<SubTexture name="River Flustered Right0005" x="1800" y="2005" width="316" height="368" frameX="-1" frameY="0" frameWidth="329" frameHeight="371"/>
+	<SubTexture name="River Flustered Right0006" x="1800" y="2005" width="316" height="368" frameX="-1" frameY="0" frameWidth="329" frameHeight="371"/>
+	<SubTexture name="River Flustered Right0007" x="1800" y="2005" width="316" height="368" frameX="-1" frameY="0" frameWidth="329" frameHeight="371"/>
+	<SubTexture name="River Flustered Right0008" x="1800" y="2005" width="316" height="368" frameX="-1" frameY="0" frameWidth="329" frameHeight="371"/>
+	<SubTexture name="River Flustered Right0009" x="1800" y="2005" width="316" height="368" frameX="-1" frameY="0" frameWidth="329" frameHeight="371"/>
+	<SubTexture name="River Flustered Right0010" x="1800" y="2005" width="316" height="368" frameX="-1" frameY="0" frameWidth="329" frameHeight="371"/>
+	<SubTexture name="River Flustered Right0011" x="1800" y="2005" width="316" height="368" frameX="-1" frameY="0" frameWidth="329" frameHeight="371"/>
+	<SubTexture name="River Flustered Right0012" x="1800" y="2005" width="316" height="368" frameX="-1" frameY="0" frameWidth="329" frameHeight="371"/>
+	<SubTexture name="River Flustered Right0013" x="1800" y="2005" width="316" height="368" frameX="-1" frameY="0" frameWidth="329" frameHeight="371"/>
+	<SubTexture name="River Flustered Up0000" x="2120" y="2005" width="267" height="449" pivotX="-7.8" pivotY="14.55" frameX="-2" frameY="0" frameWidth="273" frameHeight="454"/>
+	<SubTexture name="River Flustered Up0001" x="2391" y="2005" width="267" height="449" frameX="-2" frameY="0" frameWidth="273" frameHeight="454"/>
+	<SubTexture name="River Flustered Up0002" x="2662" y="2005" width="273" height="450" frameX="0" frameY="-4" frameWidth="273" frameHeight="454"/>
+	<SubTexture name="River Flustered Up0003" x="2662" y="2005" width="273" height="450" frameX="0" frameY="-4" frameWidth="273" frameHeight="454"/>
+	<SubTexture name="River Flustered Up0004" x="2662" y="2005" width="273" height="450" frameX="0" frameY="-4" frameWidth="273" frameHeight="454"/>
+	<SubTexture name="River Flustered Up0005" x="2662" y="2005" width="273" height="450" frameX="0" frameY="-4" frameWidth="273" frameHeight="454"/>
+	<SubTexture name="River Flustered Up0006" x="2662" y="2005" width="273" height="450" frameX="0" frameY="-4" frameWidth="273" frameHeight="454"/>
+	<SubTexture name="River Flustered Up0007" x="2662" y="2005" width="273" height="450" frameX="0" frameY="-4" frameWidth="273" frameHeight="454"/>
+	<SubTexture name="River Flustered Up0008" x="2662" y="2005" width="273" height="450" frameX="0" frameY="-4" frameWidth="273" frameHeight="454"/>
+	<SubTexture name="River Flustered Up0009" x="2662" y="2005" width="273" height="450" frameX="0" frameY="-4" frameWidth="273" frameHeight="454"/>
+	<SubTexture name="River Flustered Up0010" x="2662" y="2005" width="273" height="450" frameX="0" frameY="-4" frameWidth="273" frameHeight="454"/>
+	<SubTexture name="River Flustered Up0011" x="2662" y="2005" width="273" height="450" frameX="0" frameY="-4" frameWidth="273" frameHeight="454"/>
+	<SubTexture name="River Flustered Up0012" x="2662" y="2005" width="273" height="450" frameX="0" frameY="-4" frameWidth="273" frameHeight="454"/>
+	<SubTexture name="River Flustered Up0013" x="2662" y="2005" width="273" height="450" frameX="0" frameY="-4" frameWidth="273" frameHeight="454"/>
+</TextureAtlas>

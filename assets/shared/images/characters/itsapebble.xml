@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="itsapebble.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="itsapebble0000" x="4" y="4" width="85" height="54" pivotX="0" pivotY="0"/>
+</TextureAtlas>
